@@ -1,6 +1,8 @@
 # 情報工学科の紹介
 <!-- Markdown記法を使って学科の紹介ページを作る -->
-#情報工学科のいいところ
+
+#　情報工学科のいいところ
+
 1. **自然に溢れている環境**で作業ができる:leaves:
 1. 多数の設備を完備しているため自由に活動できる
 ![Takushoku University](hachioji.jpg "八王子国際キャンパス")
@@ -9,7 +11,9 @@
 - 将来*リーダーシップ*を張れるようになるための**コミュニケーション能力**の習得
 [拓殖大学](http://www.takushoku-u.ac.jp "Takushoku University")
 ![Dep. of Comp. Sci.](https://feng.takushoku-u.ac.jp/albums/abm00004330.jpg "情報工学科")
-##学生在籍数（令和3年度）
+
+##　学生在籍数（令和3年度）
+
 |学年|人数|
 |:---:|:---:|
 | 1年 | 91 |
